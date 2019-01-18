@@ -1,11 +1,22 @@
 h1{
     text-align: center;
     color: rgb(0, 153, 255);
-    background-color: rgb(0, 255, 0);
+    background-color: rgba(255, 238, 0, 0.726);
+    border: 5pt rgb(34, 24, 27) solid;
+    border-radius: 15px;
+    font-variant: small-caps;
+    font-style: italic;
 }
 ul{
     list-style: none;
 }
 body{
-    background-color: rgb(197, 20, 20);
+    background-color: rgb(182, 20, 197);
+}
+.table{
+    color: rgb(234, 0, 255)
+    
+}
+img{
+    align-self: right;
 }
